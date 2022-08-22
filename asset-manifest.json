@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nintendo/static/css/main.7c78341f.css",
-    "main.js": "/nintendo/static/js/main.879e2d62.js",
+    "main.js": "/nintendo/static/js/main.22bc5075.js",
     "static/js/787.e7f2388d.chunk.js": "/nintendo/static/js/787.e7f2388d.chunk.js",
     "static/media/bg2.png": "/nintendo/static/media/bg2.809caf802575ce31cc1c.png",
     "static/media/bg1.png": "/nintendo/static/media/bg1.fa7e678f5367417d9ed0.png",
@@ -36,11 +36,11 @@
     "static/media/slick.woff": "/nintendo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/nintendo/index.html",
     "main.7c78341f.css.map": "/nintendo/static/css/main.7c78341f.css.map",
-    "main.879e2d62.js.map": "/nintendo/static/js/main.879e2d62.js.map",
+    "main.22bc5075.js.map": "/nintendo/static/js/main.22bc5075.js.map",
     "787.e7f2388d.chunk.js.map": "/nintendo/static/js/787.e7f2388d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c78341f.css",
-    "static/js/main.879e2d62.js"
+    "static/js/main.22bc5075.js"
   ]
 }
